@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">bankline-android</string>
+    <string name="app_name" translatable="false">bankline</string>
     <string name="txt_continue">Continue</string>
     <string name="boasvindas">hello Word!!</string>
 </resources>
