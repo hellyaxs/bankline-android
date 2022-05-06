@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_continue">Continue</string>
+    <string name="boasvindas">
+        Olá, Bem vindo(a) a Santander Dev Week! Digite um ID do Correntitas para ver suas conta bancaria:
+    </string>
+</resources>
